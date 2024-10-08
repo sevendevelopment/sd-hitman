@@ -1,5 +1,7 @@
 ## SD Hitman Jobs
 
+## Discord : https://discord.gg/GkcsMrDavc
+
 ## Description
 Step into the shadows as a professional assassin with the SD-Hitman job, where discretion is your best asset. You’ll be tasked with eliminating targets of varying profiles, each presenting unique challenges and rewards. With multiple pre-configured peds and strategically chosen spawn locations, your journey as a hitman will be as dynamic as it is thrilling.
 
